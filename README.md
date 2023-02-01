@@ -6,9 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
-    
-    <div class "container">
+<div class "container">
         <div class="navbar">
         <div class="logo"> 
         </div>
