@@ -11,7 +11,6 @@
     <div class "container">
         <div class="navbar">
         <div class="logo"> 
-            <img src="images/Screenshot%202023-01-07%20114339.png" width="125px">
         </div>
         <nav>
             <ul>
